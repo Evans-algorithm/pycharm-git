@@ -19,5 +19,6 @@ if __name__ == '__main__':
     print("hot-fix merge into master...")
 
     print('modified from master.')
+    print("hot-fix modified.")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
