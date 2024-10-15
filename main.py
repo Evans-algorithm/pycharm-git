@@ -20,5 +20,7 @@ if __name__ == '__main__':
 
     print('modified from master.')
     print("hot-fix modified.")
+    print("pull ...")
+    
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
