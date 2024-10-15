@@ -17,5 +17,6 @@ if __name__ == '__main__':
     print("code code ...")
     print("test git ...")
     print("hot-fix merge to master...")
+    print("hot-fix modified.")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
